@@ -1,0 +1,1 @@
+Codificação do curso "CRUD Angular + Spring" do canal da Loiane Groner. Playlist do curso: https://www.youtube.com/playlist?list=PLGxZ4Rq3BOBpwaVgAPxTxhdX_TfSVlTcY
